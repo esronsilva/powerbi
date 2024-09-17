@@ -1,0 +1,13 @@
+# Dashboard de Análise de Vendas
+
+Este é um dashboard de Power BI para análise de vendas de uma empresa de varejo.
+
+## Acesse o relatório
+
+[Clique aqui para visualizar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTg2MjA5YzMtMDM0Yy00OTIyLTliNjgtZDk1MTlmNjY3YWY5IiwidCI6IjY0YjE5MTFmLTY1MjAtNDczMC1hMzg1LTQwYzYxZDg0ODA2NSJ9)
+
+## Descrição
+- **Fonte de dados**: Banco de dados SQL e arquivos CSV de vendas.
+- **KPIs**: Receita, Margem de Lucro, Volume de Vendas, etc.
+- **Filtros interativos**: Filtragem por categorias, datas e regiões.
+
